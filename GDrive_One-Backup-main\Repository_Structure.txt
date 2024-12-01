@@ -1,0 +1,12 @@
+GDrive_One-Backup/
+│
+├── launcher.pyw                # Main application launcher
+├── GDrive_One-Backup.py       # Core application logic
+├── requirements.txt           # Python package dependencies
+├── backup_config.json         # User configuration storage
+├── credentials.json          # Google OAuth credentials (user provided)
+├── README.txt                # Text documentation
+├── README.html              # HTML documentation
+│
+└── docs/                    # Documentation directory
+    └── images/             # Screenshots and images
